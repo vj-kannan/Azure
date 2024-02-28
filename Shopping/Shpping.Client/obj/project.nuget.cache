@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0D2KXnKU5fEalEiLhjOUP0uSMlpUMIgL4eUQli7q3b1RsdDjudhyXDxEZXL4NW4m2WdcPhsyLCLzTybUvwoOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kbp1mdk\\source\\repos\\vj-kannan\\Azure\\Shopping\\Shpping.Client\\Shpping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kbp1mdk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

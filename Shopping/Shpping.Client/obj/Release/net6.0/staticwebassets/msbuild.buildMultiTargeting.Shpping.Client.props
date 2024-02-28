@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Shpping.Client.props" />
+</Project>
